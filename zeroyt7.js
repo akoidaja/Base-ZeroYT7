@@ -439,7 +439,7 @@ timestamp = speed();
 				latensi = speed() - timestamp
                   	teks =
 `┏━➤ *INFO BOT* 
-*┃┃* Creator Bot : Zero YT7
+*┃┃* Creator Bot : Afner
 *┃┃* Nama Owner : ${ownername}
 *┃┃* Nama Bot : ${botname}
 *┃┃* Prefix : Multi Prefix
@@ -448,10 +448,10 @@ timestamp = speed();
 *┃┃* Speed : ${latensi.toFixed(4)} second
 *┃┃* Language : Javascript & Nodejs
 *┃┗━━━━━━━━*
-*┃◗ Thanks To Allah S.W.T*
+*┃◗ Thanks To Yesus Kristus dan Allah S.W.T*
 *┃◗ Thank To Ortu*
-*┃◗ Thank To Zero YT7 (Creator)*
-*┃◗ Thanks To All Subscriberku*
+*┃◗ Thank To Zero-YT7*
+*┃◗ Thank To Afner*
 *┗━━━━━━━ •*`
                   but = [
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
@@ -905,14 +905,7 @@ case 'sourcecode':
 case 'script':
 case 'sc':
 teks = 
-`*Bot Ini Menggunakan Sourcecode*
-╭─────────────────────
-├ Sc Ori = https://github.com/Zero-YT7/Base-ZeroYT7
-├ Sc Full Fitur = https://youtube.com/ZeroYT7
-├─────────────────────
-├ Creator Base = Zero YT7
-├ Creator Sc = Zero YT7
-└─────────────────────`
+`*Bot Ini Menggunakan Source Code Dari Afner`
 zeroyt7.sendMessage(from, teks, text, {quoted: ftrol})
 break
 
